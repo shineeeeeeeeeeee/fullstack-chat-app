@@ -29,11 +29,6 @@ This project is does the following:
 
 
 
-## Feedback
-
-If you have any feedback, please reach out to us at ssuri2327@gmail.com
-
-
 ## Environment Variables
 
 To run this project, you will need to add the following environment variables to your .env file
@@ -71,4 +66,12 @@ To start the app run
   npm start
 ```
 
+## Feedback
 
+If you have any feedback, please reach out to us at ssuri2327@gmail.com
+
+
+
+## Other screenshots
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
