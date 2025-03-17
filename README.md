@@ -1,5 +1,9 @@
-https://fullstack-chat-app-tlqb.onrender.com
 
+## Checkout the app here 
+
+```bash
+  https://fullstack-chat-app-tlqb.onrender.com
+```
 
 # Full Stack CHAT-APP
 
