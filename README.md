@@ -12,7 +12,7 @@ A brief description of what this project does and who it's for
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img width="1422" alt="Image" src="https://github.com/user-attachments/assets/30b439b2-9908-490f-b526-d3ab8ca91e08" />
 
 
 ## Highlights
